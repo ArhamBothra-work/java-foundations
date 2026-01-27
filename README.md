@@ -28,7 +28,7 @@ Concepts:
 Programs:
 - Shopping Cart Program 🛒
 - Compound Interest Calculator 💸
-- - Weight Converter 🏋️
+- Weight Converter 🏋️
 
 ## Tech
 - Java
