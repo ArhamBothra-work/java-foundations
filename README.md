@@ -18,9 +18,17 @@ Concepts:
 - Math Class
 - printf
 
+### Day 3
+Concepts:
+- Nested If Statements
+- String Methods
+- Substrings
+- Ternary Operator
+
 Programs:
 - Shopping Cart Program 🛒
 - Compound Interest Calculator 💸
+- - Weight Converter 🏋️
 
 ## Tech
 - Java
