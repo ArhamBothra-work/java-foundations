@@ -1,7 +1,7 @@
 package com.arham.foundations.projects;
 import java.util.Scanner;
 
-public class P_002CompoundInterestCalculator {
+public class P002_CompoundInterestCalculator {
     public static void main (String[] args){
         //compound interest calculator
         Scanner scanner = new Scanner(System.in);
