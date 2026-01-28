@@ -1,36 +1,57 @@
 # Java Foundations ☕
 
-This repository contains my Java learning journey (IntelliJ + Java).
-I’m following a full Java course and pushing code daily to track progress.
+This repository documents my Java learning journey using **IntelliJ IDEA** and **Java**.
+I’m following a comprehensive Java course and pushing code regularly to build strong foundations and maintain consistency.
 
-## Progress Log
+---
+
+## 📘 Progress Log
 
 ### Day 1
-- Introduction
+- Introduction to Java
 - Variables
 - User Input
 - Arithmetic Operators
 
+---
+
 ### Day 2
-Concepts:
+**Concepts**
 - If Statements
 - Random Numbers
 - Math Class
 - printf
 
+**Programs**
+- Shopping Cart Program 🛒
+- Compound Interest Calculator 💸
+
+---
+
 ### Day 3
-Concepts:
+**Concepts**
 - Nested If Statements
 - String Methods
 - Substrings
 - Ternary Operator
 
-Programs:
-- Shopping Cart Program 🛒
-- Compound Interest Calculator 💸
+**Programs**
 - Weight Converter 🏋️
 
-## Tech
+---
+
+### Day 4
+**Concepts**
+- Enhanced Switch Statements
+- Logical Operators
+
+**Programs**
+- Temperature Converter 🌡️
+- Calculator Program 🖩
+
+---
+
+## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
-- Git + GitHub
+- Git & GitHub
