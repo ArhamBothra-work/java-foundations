@@ -51,6 +51,18 @@ I’m following a comprehensive Java course and pushing code regularly to build 
 
 ---
 
+### Day 5
+Concepts:
+- While Loops
+- For Loops
+- Break & Continue
+- Nested Loops
+
+Programs:
+- Number Guessing Game 🔢
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
