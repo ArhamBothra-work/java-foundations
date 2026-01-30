@@ -63,6 +63,18 @@ Programs:
 
 ---
 
+### Day 6
+Concepts:
+- While Loops
+- For Loops
+- Break & Continue
+- Nested Loops
+
+Programs:
+- Number Guessing Game 🔢
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
