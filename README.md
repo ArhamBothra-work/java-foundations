@@ -75,6 +75,19 @@ Programs:
 
 ---
 
+### Day 7
+Concepts:
+- Arrays
+- User Input into Arrays
+- Searching an Array
+- Varargs
+- 2D Arrays
+
+Programs:
+- Quiz Game 💯
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
