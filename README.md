@@ -88,6 +88,13 @@ Programs:
 
 ---
 
+### Day 8
+Programs:
+- Rock Paper Scissors 🗿
+- Slot Machine 🎰
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
