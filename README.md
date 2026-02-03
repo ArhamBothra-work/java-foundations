@@ -95,6 +95,16 @@ Programs:
 
 ---
 
+### Day 9
+Concepts:
+- Object-Oriented Programming
+- Constructors
+- Overloaded Constructors
+- Array of Objects
+- Static Members
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
