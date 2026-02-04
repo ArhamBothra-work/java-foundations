@@ -105,6 +105,16 @@ Concepts:
 
 ---
 
+### Day 10
+Concepts:
+- Inheritance
+- super keyword
+- Method Overriding
+- toString() Method
+- Abstraction
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
