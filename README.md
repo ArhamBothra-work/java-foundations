@@ -115,6 +115,15 @@ Concepts:
 
 ---
 
+### Day 11
+Concepts:
+- Interfaces
+- Polymorphism
+- Runtime Polymorphism
+- Getters and Setters
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
