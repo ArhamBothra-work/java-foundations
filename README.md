@@ -124,6 +124,14 @@ Concepts:
 
 ---
 
+### Day 12
+Concepts:
+- Aggregation
+- Composition
+- ArrayLists
+
+---
+
 ## 🛠 Tech Stack
 - Java
 - IntelliJ IDEA
